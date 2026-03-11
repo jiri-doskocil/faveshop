@@ -9,7 +9,7 @@ src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
 <body style="margin:0">
 
 <model-viewer
-src="model.glb"
+src="https://github.com/jiri-doskocil/faveshop/blob/main/F000001%2CF000006%2CF000007-CLOSE_3D.glb"
 auto-rotate
 camera-controls
 style="width:100%;height:100vh">
